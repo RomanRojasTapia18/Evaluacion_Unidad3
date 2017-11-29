@@ -1,3 +1,4 @@
+#juan roman rojas tapia 
 import psycopg2
 from config import config
 
